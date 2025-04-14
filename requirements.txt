@@ -1,0 +1,12 @@
+fastapi
+httpx
+firebase-admin
+spacy
+python-dotenv
+sendgrid
+websockets
+PyMuPDF
+textwrap3
+chromadb
+sentence-transformers
+tiktoken
